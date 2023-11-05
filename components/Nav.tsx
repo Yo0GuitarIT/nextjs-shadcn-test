@@ -20,7 +20,7 @@ export default function Nav() {
                 alt="Vercel Logo"
                 className="dark:invert"
                 width={100}
-                height={24}
+                height={100}
                 priority
               />
             </a>
